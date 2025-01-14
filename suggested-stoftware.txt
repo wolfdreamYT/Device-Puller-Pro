@@ -1,0 +1,37 @@
+
+We suggest you to use these software to improve and make your expearience the best proformance.
+Here are some and why:
+
+############################################################################################################################
+
+AngryIP Scanner: 
+
+This can be used to scan IPs in your local network, or even in a 
+general location (such as canada, US, florida, etc). It is easy to use, and can filter
+out the ones without ports and whatnot, since the code can only give info from live and online OS.
+
+It can also be used as tools to access their FTP files, ping them, and more. I use it alot, especially for this 
+program i created. You can also use different ones online like IP Scanner Ultra and more, but this is most
+recommended for computor software professionals due to its extreme powers.
+
+############################################################################################################################
+
+VS Code (Visual Studio Code):
+
+This is a coding platform used by millions of people, since you can drag and drop your folder here, and then simply
+open a terminal that auto connects to the file, making you not worry about needing to do cd path/to/you/folder/ .
+
+It can allow usage of plugins, such as live server, live preview, custom text, and more with just one click. It can be 
+used by almost anyone, since it supports macOS, WindowsOS, LinuxOS, and more. I use it all the time, and it gives me 
+no pain, but it also gives me more easier access to coding, as it gives coding prompts while typing, making the computor
+"geuss" on the next thing you might type!
+
+############################################################################################################################
+
+Python v3+:
+
+Python lets you create and use these amazing codes, and therefore is needed to use this program. Please ensure its 
+version 3.1 and later, as alder versions will not be working since its not compatable with the features i used (which
+are only on the version 3.1 and later).
+
+############################################################################################################################
