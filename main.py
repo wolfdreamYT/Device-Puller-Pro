@@ -135,7 +135,7 @@ def display_menu(selected):
     os.system('clear')
     print("\033[1;32;40m") 
     print("**********************************************")
-    print("*               Network Scanner              *")
+    print("*     Network Manager - Device Puller        *")
     print("**********************************************")
 
     print("""
